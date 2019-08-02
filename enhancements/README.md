@@ -9,7 +9,7 @@ This process is evolving, but is mandatory for all enhancements beginning with r
 ## Quick start
 
 1. Socialize an idea with others.  Make sure others thing the work is worth doing, and are willing to review design and code changes required.
-2. Follow the process outlined in the [design template](design-template.md)   
+2. Follow the process outlined in the [enhancement template](enhancement-template.md)   
 
 ## FAQs
 
